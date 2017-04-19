@@ -24,7 +24,7 @@ class Level2: SKScene, SKPhysicsContactDelegate{
     var l_empty_plate = SKSpriteNode(imageNamed: "empty_plate")
     var l_full_plate = SKSpriteNode(imageNamed: "full_plate")
     
-    
+    // MARINA's CHANGE
     var d_empty_plate = SKSpriteNode(imageNamed: "empty_plate")
     var d_full_plate = SKSpriteNode(imageNamed: "full_plate")
     var b_plate = true
