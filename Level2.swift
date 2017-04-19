@@ -16,6 +16,7 @@ class Level2: SKScene, SKPhysicsContactDelegate{
     let background_breakfast = SKSpriteNode(imageNamed: "background_breakfast")
     let background_lunch = SKSpriteNode(imageNamed: "background_lunch")
     let background_dinner = SKSpriteNode(imageNamed: "background_dinner")
+    // TEST COMMENT ERIN
     var b_empty_plate = SKSpriteNode(imageNamed: "empty_plate")
     var b_full_plate = SKSpriteNode(imageNamed: "full_plate")
     
